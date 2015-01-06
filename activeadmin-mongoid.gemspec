@@ -19,7 +19,6 @@ Gem::Specification.new do |gem|
   gem.license       = 'MIT'
 
   gem.add_runtime_dependency 'mongoid',     ['> 3.0', '< 5.0']
-  gem.add_runtime_dependency 'activeadmin'
   gem.add_runtime_dependency 'jquery-rails'
   gem.add_runtime_dependency 'sass-rails'
   # gem.add_runtime_dependency 'meta_search',  '~> 1.1.3'
